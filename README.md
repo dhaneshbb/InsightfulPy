@@ -71,7 +71,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- **Your Name**  
+- **dhaneshbb**  
   [GitHub](https://github.com/dhaneshbb/InsightfulPy) | [Email](dhaneshbb5@gmail.com)
 
 ---
