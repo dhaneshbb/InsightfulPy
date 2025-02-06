@@ -1,0 +1,13 @@
+This project uses third-party libraries under the following licenses:
+
+- pandas: BSD License
+- researchpy: MIT License
+- tabulate: MIT License
+- tableone: MIT License
+- matplotlib: Python Software Foundation License
+- missingno: MIT License
+- seaborn: BSD License
+- scipy: BSD License
+- numpy: BSD License
+
+These licenses remain unchanged and are retained in their respective libraries.
