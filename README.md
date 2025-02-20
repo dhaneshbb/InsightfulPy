@@ -73,7 +73,6 @@ All dependencies are automatically installed with the package.
 ### Importing the Package
 
 ```python
-import pandas as pd
 from insightfulpy.eda import *
 from insightfulpy.utils import *
 ```
