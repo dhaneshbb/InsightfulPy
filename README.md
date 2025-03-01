@@ -78,6 +78,10 @@ from insightfulpy.eda import *
 
 ---
 
+for more understanding inspect the following,
+
+The `insightfulpy` package enhances data analysis capabilities across several projects, evident in its application across different domains. It is utilized in the **HomeLoanDef** project for analyzing loan repayment data, the **PortugueseBank** project for examining customer responses to bank marketing, the **BikeRental** project for forecasting bike rental demands, and the **AutoPricePred** project for predicting automobile pricing. These projects can be explored further through their GitHub repositories: [HomeLoanDef](https://github.com/dhaneshbb/HomeLoanDef), [PortugueseBank](https://github.com/dhaneshbb/PortugueseBank), [BikeRental](https://github.com/dhaneshbb/BikeRental), and [AutoPricePred](https://github.com/dhaneshbb/AutoPricePred), where `insightfulpy` is instrumental in providing advanced data visualizations and deeper analytical insights.
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
