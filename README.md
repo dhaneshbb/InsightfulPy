@@ -1,6 +1,6 @@
 # insightfulpy
 
-**insightfulpy** is a comprehensive Python package designed to simplify Exploratory Data Analysis (EDA) workflows. It provides powerful utilities for analyzing both numerical and categorical data, detecting outliers, handling missing values, and generating insightful visualizations. insightfulpy avilable in [pypi](https://pypi.org/project/insightfulpy/)
+**insightfulpy** is a comprehensive Python package designed to simplify Exploratory Data Analysis (EDA) workflows. It provides powerful utilities for analyzing both numerical and categorical data, detecting outliers, handling missing values, and generating insightful visualizations. insightfulpy avilable on [pypi](https://pypi.org/project/insightfulpy/)
 
 ---
 
