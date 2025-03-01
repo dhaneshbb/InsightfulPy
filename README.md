@@ -95,3 +95,6 @@ This project is licensed under the MIT License. See the (LICENSE) file for detai
 - Inspired by best practices in EDA and data visualization.
 - Thanks to the open-source community for the amazing tools and libraries!
 
+---
+
+insightfulpy on [pypi](https://pypi.org/project/insightfulpy/)
