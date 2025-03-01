@@ -1,6 +1,6 @@
 # insightfulpy
 
-**insightfulpy** is a comprehensive Python package designed to simplify Exploratory Data Analysis (EDA) workflows. It provides powerful utilities for analyzing both numerical and categorical data, detecting outliers, handling missing values, and generating insightful visualizations.
+**insightfulpy** is a comprehensive Python package designed to simplify Exploratory Data Analysis (EDA) workflows. It provides powerful utilities for analyzing both numerical and categorical data, detecting outliers, handling missing values, and generating insightful visualizations. insightfulpy avilable in [pypi](https://pypi.org/project/insightfulpy/)
 
 ---
 
@@ -95,6 +95,5 @@ This project is licensed under the MIT License. See the (LICENSE) file for detai
 - Inspired by best practices in EDA and data visualization.
 - Thanks to the open-source community for the amazing tools and libraries!
 
----
 
-insightfulpy on [pypi](https://pypi.org/project/insightfulpy/)
+
